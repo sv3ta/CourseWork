@@ -1,0 +1,38 @@
+Overall Accuracy: 91.75%
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+          Scrub      0.949     0.984     0.966       761
+   Willow swamp      0.969     0.909     0.938       243
+     CP hammock      0.978     0.859     0.915       256
+     Slash pine      0.789     0.877     0.831       252
+  Oak/Broadleaf      0.932     0.851     0.890       161
+ Hardwood swamp      0.864     0.803     0.833       229
+Graminoid marsh      0.836     0.924     0.878       105
+ Spartina marsh      0.925     0.893     0.909       431
+  Cattail marsh      0.975     0.965     0.970       520
+     Salt marsh      1.000     0.604     0.753       404
+      Mud flats      0.981     0.981     0.981       419
+          Water      0.718     0.968     0.825       503
+   Cabbage palm      0.981     0.996     0.988       927
+
+       accuracy                          0.917      5211
+      macro avg      0.915     0.894     0.898      5211
+   weighted avg      0.928     0.917     0.916      5211
+
+
+Per-Class Accuracy:
+Scrub: 98.42%
+Willow swamp: 90.95%
+CP hammock: 85.94%
+Slash pine: 87.70%
+Oak/Broadleaf: 85.09%
+Hardwood swamp: 80.35%
+Graminoid marsh: 92.38%
+Spartina marsh: 89.33%
+Cattail marsh: 96.54%
+Salt marsh: 60.40%
+Mud flats: 98.09%
+Water: 96.82%
+Cabbage palm: 99.57%
